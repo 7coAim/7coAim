@@ -7,3 +7,13 @@ As a system engineer (SE), I engaged in proof-of-concept and system development 
 
 After that, I changed my job to a B2B SaaS company and I am working on web application development, engineering management, and project management every day.
 By doing so, I am providing value to Japanese customers.
+
+
+### Account
+* [Gmail](mailto:yyy.of.s+github2@gmail.com) - Please contact me from here.
+* [Facebook](https://www.facebook.com/kurosawa.tomoyuki.3/)
+* [Twitter](https://twitter.com/7coAim)
+* [Qiita](https://qiita.com/7coAim)
+* [note](https://note.com/kurosawat)
+* [Wantedly](https://www.wantedly.com/id/kurosawa_tomoyuki)
+* [connpass](https://connpass.com/user/tonnk18/)
