@@ -11,9 +11,10 @@ By doing so, I am providing value to Japanese customers.
 
 ### Account
 * [Gmail](mailto:yyy.of.s+github2@gmail.com) - Please contact me from here.
+* [GitHub](https://github.com/7coAim)
 * [Facebook](https://www.facebook.com/kurosawa.tomoyuki.3/)
 * [Twitter](https://twitter.com/7coAim)
-* [Qiita](https://qiita.com/7coAim)
 * [note](https://note.com/kurosawat)
+* [Qiita](https://qiita.com/7coAim)
 * [Wantedly](https://www.wantedly.com/id/kurosawa_tomoyuki)
 * [connpass](https://connpass.com/user/tonnk18/)
