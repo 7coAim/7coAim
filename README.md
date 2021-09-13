@@ -19,3 +19,5 @@ By doing so, I am providing value to Japanese customers.
 * [connpass](https://connpass.com/user/tonnk18/)
 * [Wantedly](https://www.wantedly.com/id/kurosawa_tomoyuki)
 * [Eight](https://8card.net/p/39918114600)
+
+<!-- [LinkedIn](WIP) -->
