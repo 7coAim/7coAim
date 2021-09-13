@@ -16,6 +16,6 @@ By doing so, I am providing value to Japanese customers.
 * [Twitter](https://twitter.com/7coAim)
 * [note](https://note.com/kurosawat)
 * [Qiita](https://qiita.com/7coAim)
-* [Wantedly](https://www.wantedly.com/id/kurosawa_tomoyuki)
 * [connpass](https://connpass.com/user/tonnk18/)
+* [Wantedly](https://www.wantedly.com/id/kurosawa_tomoyuki)
 * [Eight](https://8card.net/p/39918114600)
