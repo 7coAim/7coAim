@@ -18,3 +18,4 @@ By doing so, I am providing value to Japanese customers.
 * [Qiita](https://qiita.com/7coAim)
 * [Wantedly](https://www.wantedly.com/id/kurosawa_tomoyuki)
 * [connpass](https://connpass.com/user/tonnk18/)
+* [Eight](https://8card.net/p/39918114600)
