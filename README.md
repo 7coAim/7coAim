@@ -21,3 +21,4 @@ By doing so, I am providing value to Japanese customers.
 * [Eight](https://8card.net/p/39918114600)
 
 <!-- [LinkedIn](WIP) -->
+<!-- [YOUTRUST](WIP) -->
