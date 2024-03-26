@@ -10,7 +10,7 @@ By doing so, I am providing value to Japanese customers.
 
 
 ### Account
-* [Gmail](mailto:yyy.of.s+github2@gmail.com) - Please contact me from here.
+* [Gmail](mailto:yyy.of.s+github3@gmail.com) - Please contact me from here.
 * [GitHub](https://github.com/7coAim)
 * [Facebook](https://www.facebook.com/kurosawa.tomoyuki.3/)
 * [Twitter](https://twitter.com/7coAim)
@@ -19,6 +19,5 @@ By doing so, I am providing value to Japanese customers.
 * [connpass](https://connpass.com/user/tonnk18/)
 * [Wantedly](https://www.wantedly.com/id/kurosawa_tomoyuki)
 * [Eight](https://8card.net/p/39918114600)
-
-<!-- [LinkedIn](WIP) -->
-<!-- [YOUTRUST](WIP) -->
+* [LinkedIn](https://www.linkedin.com/in/tomoyuki-kurosawa)
+* [YOUTRUST](https://youtrust.jp/users/kurosawa_tomoyuki)
